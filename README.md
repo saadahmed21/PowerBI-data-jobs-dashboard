@@ -10,11 +10,11 @@ The report consists of a high-level dashboard with interactive filtering and a d
 
 ## Main Dashboard
 
-![Main Dashboard](images/dashboard.png)
+![Main Dashboard](images/dashboard.PNG)
 
 ## Drill Through Page
 
-![Drill Through Dashboard](images/dashboard_drillthrough.png)
+![Drill Through Dashboard](images/dashboard_drillthrough.PNG)
 
 ---
 
